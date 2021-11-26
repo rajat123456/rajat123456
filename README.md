@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rajatrawat1997@gmail.com**
 
-- 📄 Hobbies [Playing Table Tennis,Cricket,Making youtube videos](Playing Table Tennis,Cricket,Making youtube videos)
+- 📄 Hobbies (Playing Table Tennis, Cricket, Making youtube videos)
 
 - ⚡ Fun fact **The best place in the world to see rainbows is in Hawaii**
 
