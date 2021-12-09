@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [spectromation.com](spectromation.com)
 
-- 💬 Ask me about **Java, Data Structures, Algorithms, Blockchain, Relational Database, Operating Systems, Object Oriented Programming & Augmented Reality
+- 💬 Ask me about **Java, Data Structures, Algorithms, Blockchain, Relational Database, Operating Systems, Object Oriented Programming & Augmented Reality**
 
 - 📫 How to reach me **rajatrawat1997@gmail.com**
 
