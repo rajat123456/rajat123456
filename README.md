@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajat123456" alt="rajat123456" /></a> </p>
 
-- 🔭 I’m currently working on [Blockchain Implementation in 5G Vehicular Networks](https://github.com/rajat123456/Blockchain-Implementation-in-5G-Vehicular-Networks)
-
-- 🌱 I’m currently learning **Video Editing**
+- 🌱 I’m currently learning **JavaScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajat123456](https://github.com/rajat123456)
 
-- 📝 I regularly write articles on [spectromation.com](spectromation.com)
-
-- 💬 Ask me about **Java, Data Structures, Algorithms, Blockchain, Relational Database, Operating Systems, Object Oriented Programming, Augmented and Virtual Reality**
+- 💬 Ask me about **Java, Data Structures, Algorithms, Relational Database, Operating Systems, Object Oriented Programming, Augmented and Virtual Reality, HTML, CSS**
 
 - 📫 How to reach me **rajatrawat1997@gmail.com**
 
